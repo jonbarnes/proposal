@@ -1,1 +1,2 @@
-Landslides are a problem in the world. Landslides are a problem in Oregon. Having sensors that detect landslides before they happen and warn people is a valuable tool. 
+Landslides are a problem in the world. Landslides are a problem in Oregon. Having sensors that detect 
+landslides before they happen and warn people is a valuable tool. 
