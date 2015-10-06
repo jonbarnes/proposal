@@ -1,2 +1,8 @@
-Landslides are a problem in the world. Landslides are a problem in Oregon. Having sensors that detect 
-landslides before they happen and warn people is a valuable tool. 
+Debris flows are a hazard for roads. People die because of debris flows on roads.  
+Debris flows are a problem in the world. 
+Debris flows are a problem in Oregon.  “Thus, analysis has focused on recorded events that 
+occurred from 1950 to the present. At least 21 deaths in Oregon have been 
+attributed to debris flows since 1950.” - 
+https://gsa.confex.com/gsa/2002CD/finalprogram/abstract_34984.htm
+Having sensors that detect landslides before they happen and warn people is a valuable tool. 
+
