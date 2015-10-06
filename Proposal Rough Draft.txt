@@ -1,8 +1,30 @@
-Debris flows are a hazard for roads. People die because of debris flows on roads.  
+Debris flows are a hazard for roads and human lives. People die because of debris flows on roads.  
+
 Debris flows are a problem in the world. 
-Debris flows are a problem in Oregon.  “Thus, analysis has focused on recorded events that 
-occurred from 1950 to the present. At least 21 deaths in Oregon have been 
-attributed to debris flows since 1950.” - 
+“Debris flows cause significant damage and fatalities throughout the world. This study addresses the 
+overall impacts of debris flows on a global scale from 1950 to 2011. Two hundred and thirteen events 
+with 77,779 fatalities have been recorded from academic publications, newspapers, and personal 
+correspondence.”
+-	http://link.springer.com/article/10.1007/s11069-013-0907-4#page-1
+Debris flows and their toll on human life: a global analysis of debris-flow 
+fatalities from 1950 to 2011
+CA Dowling, PM Santi - Natural hazards, 2014 – Springer
+
+Debris flows are a problem in Oregon. 
+ “Thus, analysis has focused on recorded events that occurred from 1950 to the 
+present. At least 21 deaths in Oregon have been attributed to debris flows since 
+1950. The debris flow fatality rate averages about one fatality every five years for the 
+entire population of Oregon. The risk of being killed by a debris flow in Oregon for 
+the average citizen appears to be relatively low, about 0.02 fatalities per 100,000 
+people per year. However, the risk appears to be significant and several orders of 
+magnitude greater, up to 70 fatalities per 100,000 people per year, for small 
+segments of the population known to be living, working, or traveling in identified 
+areas of high or extreme debris flow hazard. The risk to any individual depends on 
+their level of exposure, which is determined by their location in relation to the paths 
+of potential debris flows and by how much time they spend in these locations.” - 
 https://gsa.confex.com/gsa/2002CD/finalprogram/abstract_34984.htm
-Having sensors that detect landslides before they happen and warn people is a valuable tool. 
+
+
+Having sensors that detect landslides before they happen and warn people would be a valuable tool 
+which could have the potential to save lives. 
 
